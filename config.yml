@@ -1,0 +1,8 @@
+gui:
+  nerdFontsVersion: "3"
+customCommads:
+  - key: 'F'
+    command: 'git fetch --prune'
+    context: 'files'
+    loadingText: 'Fetching and Pruning'
+    stream: true
